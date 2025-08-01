@@ -1,7 +1,7 @@
 name: animated_onboarding_screens
 description: A highly customizable and animated onboarding screen for Flutter. Features include parallax effects, hero animations, built-in persistence, and a developer-friendly API for creating stunning app introductions.
 version: 0.1.0
-repository:
+repository: https://github.com/Ayeshacode-s/animated-onboarding-screens
 homepage:
 environment:
   sdk: '>=3.0.0 <4.0.0'
