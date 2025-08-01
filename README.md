@@ -2,12 +2,12 @@ Animated_onboarding_screens
 A highly customizable and animated onboarding screen for Flutter.
 
 
-<img width="1362" height="645" alt="image" src="https://github.com/user-attachments/assets/6e814629-c52d-410b-aa91-2afaf4f1e71b" />
 
-<img width="1348" height="636" alt="image" src="https://github.com/user-attachments/assets/cde3bd18-e049-4419-9fad-88c8eb00a89d" />
+![Uploading 1.png…]()
 
-<img width="1352" height="642" alt="image" src="https://github.com/user-attachments/assets/ebb40d05-ddef-4a02-9b27-aa3c9be2e289" />
+![Uploading 2.png…]()
 
+![Uploading 3.png…]()
 
 
 ✨ Features
