@@ -1,5 +1,6 @@
-import 'package:animated_onboarding_screens/animated_onboarding_screens.dart';
+
 import 'package:flutter/material.dart';
+import 'package:gliding_onboarding_screens/gliding_onboarding_screens.dart';
 
 
 void main() {

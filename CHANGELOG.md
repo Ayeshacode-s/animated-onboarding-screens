@@ -1,3 +1,3 @@
 ## 0.1.0
 
-* Initial release of the animated_onboarding_screens package.
+* Initial release of the gliding_onboarding_screens package.
