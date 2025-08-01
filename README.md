@@ -1,7 +1,7 @@
 animated_onboarding_screens
 A highly customizable and animated onboarding screen for Flutter.
 
-Replace this with a GIF or image of your package in action.
+
 
 ✨ Features
 Parallax Effects: Background and foreground content move at different speeds.
