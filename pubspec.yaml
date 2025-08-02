@@ -1,6 +1,6 @@
 name: gliding_onboarding_screens
 description: A highly customizable and animated onboarding screen for Flutter. Features include parallax effects, hero animations, built-in persistence, and a developer-friendly API for creating stunning app introductions.
-version: 0.1.3
+version: 0.1.4
 repository: https://github.com/Ayeshacode-s/animated-onboarding-screens.git
 homepage:homepage: https://github.com/Ayeshacode-s/animated-onboarding-screens
 environment:
